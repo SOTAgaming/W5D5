@@ -1,0 +1,22 @@
+html, head, body, header, footer, ol, ul, li, section, p, img, figure, h1, aside {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font: inherit;
+  font-size: 100%;
+  list-style: none;
+  font-weight: inherit;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1.5
+}
+
+img {
+  width: inherit;
+}
+
+figure {
+  width: 100%;
+}
